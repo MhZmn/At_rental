@@ -10,11 +10,13 @@ cfx.re Page: https://forum.cfx.re/t/free-esx-qbcore-simple-car-rental-system/515
 
 
 Locations:
-* x = -505.22,&nbsp;&nbsp;y =  -257.05,&nbsp;z = 35.66
-* x = 308.74,&nbsp;&nbsp;&nbsp;y = -1383.44,&nbsp;z = 31.87
-* x = -2043.07,&nbsp;y = 3160.15,&nbsp;&nbsp;z = 32.81
-* x = 231.32,&nbsp;&nbsp;&nbsp;y = -823.87,&nbsp;&nbsp;z = 30.24
-* x = -463.43,&nbsp;&nbsp;y = 1132.17,&nbsp;&nbsp;z = 325.88
-* x = -1463.21,&nbsp;y = 6545.08,&nbsp;&nbsp;z = 14.41
-* x = -1844.13,&nbsp;y = -1217.98,&nbsp;z = 13.02
-* x = -1541.95,&nbsp;y = 839.04,&nbsp;&nbsp;&nbsp;z = 77.43
+<pre>
+* x = -505.22,  y =  -257.05, z = 35.66
+* x = 308.74,   y = -1383.44, z = 31.87
+* x = -2043.07, y = 3160.15,  z = 32.81
+* x = 231.32,   y = -823.87,  z = 30.24
+* x = -463.43,  y = 1132.17,  z = 325.88
+* x = -1463.21, y = 6545.08,  z = 14.41
+* x = -1844.13, y = -1217.98, z = 13.02
+* x = -1541.95, y = 839.04,   z = 77.43
+</pre>
